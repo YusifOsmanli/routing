@@ -1,0 +1,13 @@
+.close{
+    border: none;
+    border-radius: 3px;
+    background-color: #FF5B22;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+.formInp{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

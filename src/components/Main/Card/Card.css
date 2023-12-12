@@ -1,0 +1,39 @@
+.card{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.favorite{
+    width: 130px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FF5B22;
+    color: white;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.favorite:hover{
+    background-color: #cf4315;
+}
+
+.detail{
+    text-decoration: none;
+    width: 80px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FF5B22;
+    color: white;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    text-align: center;
+    padding: 7px 0;
+}
+.detail:hover{
+    background-color: #cf4315;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}

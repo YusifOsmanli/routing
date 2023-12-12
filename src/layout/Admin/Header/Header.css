@@ -1,0 +1,22 @@
+.navbarAdmin{
+    height: 70px;
+    background-color: #12486B;
+    color: white;
+    font-weight: bold;
+}
+.homeLink{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 18px;
+    left: 70px;
+    font-size: 20px;
+}
+.sortBtn{
+    color: #12486B;
+    font-weight: bold;
+    position: absolute;
+    top: 18px;
+    right: 200px;
+}
